@@ -42,7 +42,6 @@ durable-image-metadata-pipeline/
 ├── requirements.txt                # Python dependencies
 ├── local.settings.json             # Local config for Azure Functions (excluded from Git)
 ├── host.json                       # Azure Functions host configuration
-├── proxies.json                    # (optional, if using proxies)
 ├── .funcignore                     # Ignore files during publish
 ├── README.md                       # You're reading it :)
 ```
