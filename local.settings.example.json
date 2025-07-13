@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your-storage-connection-string>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SQL_CONNECTION_STRING": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:metadata-sqlsrv.database.windows.net;Database=ImageMetadataDB;Uid=sqladmin;Pwd=StrongPassword123!;Encrypt=yes;"
+  }
+}
